@@ -75,6 +75,76 @@
         </div>
     <!-- home section end -->
 
+    <!-- home about section starts -->
+
+    <section class="home-about">
+        <div class="image">
+            <img src="img/about-img.jpg" alt="">
+        </div>
+
+        <div class="content">
+            <h3>about us</h3>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi vero natus aliquam quod odit. Omnis doloremque architecto, numquam at reprehenderit quibusdam. Non perferendis dolorum voluptate. 
+            </p>
+            <a href="about.php" class="btn">read more</a>
+        </div>
+    </section>
+
+    <!-- home about section ends -->
+
+    <!-- home packages section starts -->
+
+    <section class="home-packages">
+        <h1 class="heading-title">our packages</h1>
+        <div class="box-container">
+            <div class="box">
+                <div class="image">
+                    <img src="img/img-1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, at.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="img/img-2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, at.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="img/img-3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, at.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="load-more">
+            <a href="package.php" class="btn">load more</a>
+        </div>
+    </section>
+    <!-- home packages section ends -->
+
+    <!-- home offer section starts -->
+
+
+
+    
+    <!-- home offer section ends -->
+
     <!-- Section services starts -->
 
         <section class="services">
