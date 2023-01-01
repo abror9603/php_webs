@@ -140,7 +140,15 @@
 
     <!-- home offer section starts -->
 
-
+    <section class="home-offer">
+        <div class="content">
+            <h3>upto 50% off</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima quaerat quas repellat animi aliquid ex id odio veniam, voluptatum voluptate assumenda quod voluptas non adipisci!
+            </p>
+            <a href="book.php" class="btn">book now</a>
+        </div>
+    </section>
 
     
     <!-- home offer section ends -->
