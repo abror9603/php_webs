@@ -53,6 +53,16 @@ section{
 }
 }
 
+.heading{
+    background-size: cover !important;
+    background-position: center !important;
+    padding-top: 10rem;
+    padding-bottom: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .btn{
     display: inline-block;
     background: var(--black);
