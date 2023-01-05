@@ -77,6 +77,126 @@
             </div>
         </section>
     <!-- about section ends -->
+
+    <!-- rewiews section starts -->
+
+        <section class="reviews">
+
+    <div
+      style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff"
+      class="swiper reviews-slider"
+    >
+      <div class="swiper-wrapper">
+                    <div class="swiper-slide slide">
+                        <div class="starts">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique reprehenderit omnis, </p>
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="img/pic-1.png" alt="">
+                    </div>
+                    
+                    <div class="swiper-slide slide">
+                        <div class="starts">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            
+                        </div>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga laudantium eos numquam soluta </p>
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="img/pic-2.png" alt="">
+                    </div>
+
+                    <div class="swiper-slide slide">
+                        <div class="starts">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo ut illo quae. Iure beatae </p>
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="img/pic-3.png" alt="">
+                    </div>
+
+                    <div class="swiper-slide slide">
+                        <div class="starts">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae ab assumenda dolore  </p>
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="img/pic-4.png" alt="">
+                    </div>
+
+                    <div class="swiper-slide slide">
+                        <div class="starts">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            
+                        </div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, at!</p>
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="img/pic-5.png" alt="">
+                    </div>
+
+                    <div class="swiper-slide slide">
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique reprehenderit omnis, </p>
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="img/pic-6.png" alt="">
+                    </div>
+ 
+      </div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+    </div>
+    <div thumbsSlider="" class="swiper mySwiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <img src="img/pic-1.png" />
+        </div>
+        <div class="swiper-slide">
+          <img src="img/pic-2.png" />
+        </div>
+        <div class="swiper-slide">
+          <img src="img/pic-3.png" />
+        </div>
+        <div class="swiper-slide">
+          <img src="img/pic-4.png" />
+        </div>
+        <div class="swiper-slide">
+          <img src="img/pic-5.png" />
+        </div>
+        <div class="swiper-slide">
+          <img src="img/pic-6.png" />
+        </div>
+        
+      </div>
+    </div>
+        </section>
+    <!-- rewiews section ends -->
  
 
     <!-- Start footer section -->

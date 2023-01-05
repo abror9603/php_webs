@@ -11,7 +11,7 @@ window.onscroll = () => {
     navbar.classList.remove('active');
 };
 
-let swiper = new Swiper(".home-slider", {
+var swiper = new Swiper(".home-slider", {
     loop: true,
     spaceBetween: 30,
     effect: "fade",
@@ -24,3 +24,24 @@ let swiper = new Swiper(".home-slider", {
       clickable: true,
     },
   });
+
+  var swiper1 = new Swiper(".mySwiper", {
+    loop: true,
+    spaceBetween: 10,
+    slidesPerView: 4,
+    freeMode: true,
+    watchSlidesProgress: true,
+  });
+  var swiper2 = new Swiper(".reviews-slider", {
+    loop: true,
+    spaceBetween: 10,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    thumbs: {
+      swiper: swiper1,
+    },
+  });
+
+  
